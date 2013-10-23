@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[開放食庫Food Open Data]]></title>
+  <link href="http://food.codefortomorrow.org/atom.xml" rel="self"/>
+  <link href="http://food.codefortomorrow.org/"/>
+  <updated>2013-10-23T12:18:44+00:00</updated>
+  <id>http://food.codefortomorrow.org/</id>
+  <author>
+    <name><![CDATA[Food Open Data]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[奮進的週六早晨]]></title>
+    <link href="http://food.codefortomorrow.org/blog/2013/10/19/work-hard-on-saturday-morning/"/>
+    <updated>2013-10-19T00:00:00+00:00</updated>
+    <id>http://food.codefortomorrow.org/blog/2013/10/19/work-hard-on-saturday-morning</id>
+    <content type="html"><![CDATA[<p><img src="http://farm6.staticflickr.com/5476/10355069745_80dd975abf_b.jpg" alt="" /></p>
+
+<p>放晴的星期六，早上九點半，《開放食庫》的 App Team Members 很準時地齊聚一堂，鑽研技術、按表操課、並且規劃系統開發的協同作業事宜。</p>
+
+<p>我們以相當認真的態度在推動《開放食庫》，把這個社群計畫當成虛擬公司在管理。光是為了服務設計，就花了好幾個月的時間，針對不同的利害關係人進行需求訪談，並且正在籌備團隊內部的使用者經驗設計工作坊，藉以凝聚團隊對於開放食庫計畫的共識，進而釐清計畫的發展策略。</p>
+
+<p>根據目前的方向，若是確實執行這個計畫的各個環節，前前後後大概需要一個百人團隊才能完成。</p>
+
+<p>現在，我們決定先擴編 Mobile App 系統開發的成員編制。</p>
+
+<p>如果你對於食品營養和安全有興趣，又具備以下任一專長與實務經驗，歡迎來信與我們聯絡 (<a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#97;&#115;&#x6b;&#64;&#x63;&#x6f;&#x64;&#101;&#x66;&#111;&#x72;&#x74;&#x6f;&#109;&#x6f;&#114;&#x72;&#x6f;&#119;&#46;&#x6f;&#x72;&#103;">&#97;&#x73;&#x6b;&#64;&#x63;&#111;&#100;&#x65;&#x66;&#111;&#114;&#x74;&#111;&#x6d;&#x6f;&#114;&#x72;&#x6f;&#x77;&#46;&#x6f;&#x72;&#103;</a>)，瞭解如何加入開放食庫的計畫團隊。</p>
+
+<ul>
+<li>App Developers (iOS &amp; Android)</li>
+<li>UI Designers (iOS &amp; Android)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[志工職缺：iOS/Android UI Designers]]></title>
+    <link href="http://food.codefortomorrow.org/blog/2013/09/23/app-ui-designer-wanted/"/>
+    <updated>2013-09-23T15:31:00+00:00</updated>
+    <id>http://food.codefortomorrow.org/blog/2013/09/23/app-ui-designer-wanted</id>
+    <content type="html"><![CDATA[<p>《開放食庫》正在徵求 iOS 和 Android 的 UI designers.</p>
+
+<p>本計畫涵蓋範圍頗廣，包跨食品資料的蒐集、分析、一直到開發消費者和商業端的應用服務。</p>
+
+<p>其中，mobile apps 會是和消費者直接互動的重要媒介，而這一部分的工作，還處於需求分析的階段，也正是新朋友加入團隊的最好時機！因為，你可以從最開始就參與，貢獻專長。</p>
+
+<p>加入工作團隊的好處：</p>
+
+<ul>
+<li>和一群身負不同專長和經驗的朋友共事。</li>
+<li>接受一位具有深厚 app 產品研發與國際行銷經驗的高人帶領，從無到有，打造一個精采的 app product!</li>
+<li>發揮設計專長，改造社會。</li>
+</ul>
+
+
+<p>UI Designer Volunteer Job:</p>
+
+<ul>
+<li>工作需求：根據 Mobile UI Design Principles，討論 user cases、研究 user workflow、設計 user interface。</li>
+<li>工作時數：未來 3-6 個月，平均每週要花八個小時在「想」或是「做」。前三個月研發期，所需時數較多，後三個月為測試修正期，所需時間較少。</li>
+<li>專長要求：有 mobile app ui design 經驗。（註：Android designer，要懂 <a href="http://developer.android.com/sdk/installing/studio.html" title="Title">Android Studio</a>)</li>
+</ul>
+
+
+<p>參考資料：</p>
+
+<ul>
+<li><a href="http://youtu.be/gUobNDmHnzM" title="Title">Apple User Experience Guidelines</a></li>
+<li><a href="http://youtu.be/Jl3-lzlzOJI" title="Title">Google I/O 2013 &ndash; Android Design for UI Developers</a></li>
+<li><a href="http://youtu.be/to8hSys0AHw" title="Title">Android Studio Tutorial</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[忙碌充實的九月天]]></title>
+    <link href="http://food.codefortomorrow.org/blog/2013/09/22/progress-report/"/>
+    <updated>2013-09-22T22:05:00+00:00</updated>
+    <id>http://food.codefortomorrow.org/blog/2013/09/22/progress-report</id>
+    <content type="html"><![CDATA[<p><img src="http://farm6.staticflickr.com/5546/9889566395_8d31e742ec_o.png" alt="" /></p>
+
+<p>九月，真是開放食庫團隊工作的好時光。</p>
+
+<p>自9月4日舉辦一場團隊實體工作會議之後，大家就約好每週三晚間定期舉辦視訊會議（使用 Google Hangout），討論工作進度。即使是中秋連假的前一晚，都自強不息，照常開會。甚至還有人從南投烤肉現場 call in，參與討論！</p>
+
+<p>目前團隊成員的專業背景相當多元，包括負責 web 程式開發與資料庫設計的 Jimmy &amp; Mike，負責 mobile app development 的 Water, Chris, Lee &amp; George，擅長用影像說故事的 Eddie ＆ Artemis，具備豐富國際資訊產品開發經驗的 Ellis ＆ Schee，負責倒茶跑龍套的區區在下敝人我，以及其他知名不具、擁有各種專長秘技與深廣人脈的朋友。</p>
+
+<p>這一季的工作重點在於需求訪談。</p>
+
+<p>針對開放食庫資料庫與衍生服務的可能使用者，例如一般消費者、營養醫療專業人士、政府相關機關、食品製造公司與通路商，設法以面對面訪談方式，瞭解需求，以便設計與開發對應的服務。</p>
+
+<p>最近的行程包括：</p>
+
+<ul>
+<li>台北市電腦公會開放資料聯盟所舉辦的食品安全圓桌交流會 (9/4)</li>
+<li>公共電視採訪<a href="http://youtu.be/Sna7qGIkUEw">獨立特派員312集（原味覺醒）</a>（9/11 首播）</li>
+<li>與《食品追溯雲端服務建置及推廣計畫》（即政府食品雲計畫）負責團隊進行面對面交流 (9/12）</li>
+</ul>
+
+
+<p>正在進行或安排中的行程則包括：</p>
+
+<ul>
+<li>拜訪研究專長為營養學的黃清真教授（行政院衛生福利部食品衛生安全諮議委員、台灣營養基金會董事長、台灣大學生化科技學系教授）</li>
+<li>拜訪負責食品 GMP 認證的<a href="http://tfida.smartweb.tw/">台灣食品產業發展協會</a></li>
+<li>拜訪國內各大食品製造公司</li>
+<li>台北市電腦公會開放資料聯盟所舉辦的<a href="http://seminars.tca.org.tw/D15j00352.aspx">食品營養圓桌交流會</a> (9/25)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[飲食革命，從《開放食庫》計畫開始]]></title>
+    <link href="http://food.codefortomorrow.org/blog/2013/09/10/hello-food-open-data/"/>
+    <updated>2013-09-10T19:10:00+00:00</updated>
+    <id>http://food.codefortomorrow.org/blog/2013/09/10/hello-food-open-data</id>
+    <content type="html"><![CDATA[<p>飲食革命，從認識你吃的食物開始。</p>
+
+<p>「《<a href="https://codefortomorrow.hackpad.com/Food-Open-Data-tXYcPHMBZ3D">開放食庫計畫</a>》
+正在蒐集各類市售包裝食品的產品標籤資訊，例如營養標示、成分和製造商資訊。有了這個食品資料庫，將能讓消費者吃得更聰明、更安心；並協助食品製造商了解消費者需求，透過使用回饋，研發更健康、更符合市場需求的產品。
+」</p>
+
+<p>以上是根據我們走訪各界，進行需求訪談之後所修訂的「任務宣言」，也算是《開放食庫計畫》目前的 working definition.</p>
+
+<p>《開放食庫計畫》最近不但進行了許多重要的前置準備活動，還有更多活動已經排入近期的行事曆了。</p>
+
+<p>在上個月，計畫團隊拜訪了<a href="http://www.gs1tw.org/twct/web/index.jsp">商品條碼策進會</a>
+(GS1 Taiwan)，瞭解產品條碼在台灣推行的實務與現況，並開始探討雙方合作的可行性。</p>
+
+<p>上星期五，計畫團隊拜訪了中央研究院的<a href="http://www.openfoundry.org/">自由軟體鑄造場</a> (Open Foundry)，請教授權模式。自由軟體鑄造場是國內研究開放軟體法律與授權最有經驗的單位之一，經常有政府機關或企業前往請教。我們非常感謝<a href="http://www.openfoundry.org/community/userprofile/lucien">林誠夏</a>與<a href="http://www.openfoundry.org/community/userprofile/tmk2005">葛冬梅</a>，即使因為吃燒烤不幸食物中毒，仍然抱病傳授開放軟體的國際授權經驗！（還真是契合主題啊～）</p>
+
+<p><img src="http://media.tumblr.com/cefa82728d1415fd92b5744760ad2ee3/tumblr_inline_mrtaidpeWB1qz4rgp.jpg" alt="開放軟體法律與授權教學" /></p>
+
+<p>同一天，我們也拜訪了中研院資訊所的<a href="http://www.iis.sinica.edu.tw/pages/swc/index_zh.html">陳昇瑋博士</a>，請教群眾外包的派工系統設計、以及影像辨識技術等議題。</p>
+
+<p><img src="http://media.tumblr.com/2f77e28f57de6158cf8cbb00a74f5512/tumblr_inline_mrtaffodRw1qz4rgp.jpg" alt="派工系統設計與討論" /></p>
+
+<p>搭上 <a href="http://registrano.com/events/dataweekend05">Data Weekend</a> 的便車，計畫團隊在週六舉辦了歡樂的團隊聚餐。平常只能在線上溝通討論的團隊成員，終於有機會一窺彼此的廬山真面目。透過 O2O 的方式，讓大家的認識更進一層，進而培養合作的默契。（換句話說，吃飯是促進工作效率的一個好方法）</p>
+
+<p>最近正在準備《開放食庫計畫》的 landing page，希望讓散落各處的資訊有個集中地點，以利對外界的溝通。至於產品資料庫和「群眾外拍」蒐集食品資訊用的 mobile app 都已經進入開發的階段。</p>
+
+<p>此外，即將成立的 <a href="http://seminars.tca.org.tw/D15j00328.aspx#enroll">Open Data 聯盟</a>將於9月25日下午舉辦圓桌討論會，將以《開放食庫計畫》為例，針對食品營養與安全的議題，邀請各界人士分享經驗。俟活動細節確定後，會再公布。</p>
+]]></content>
+  </entry>
+  
+</feed>
